@@ -16,7 +16,7 @@ Excel Project Dataset from Alex the Analyst Youtube Channel
 
 ## 🛠️ Tools & What I Did
 * **Excel Power Query:** Used to import, clean up, and organize the data.
-* **Excel Formulas:** Used simple logic to sort people into categories (like grouping ages into "Middle Age" or "Adolescent").
+* **Excel Formulas:** Used simple logic to sort people into categories (like grouping ages into "Adolescent", "Middle Age", or "Old").
 * **Pivot Tables & Charts:** Used to automatically summarize thousands of rows of data into clean charts.
 * **Interactive Slicers:** Added clickable buttons (filters) on the left side so anyone can click around and see the charts update instantly.
 
