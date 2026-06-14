@@ -11,6 +11,7 @@ The goal of this project is simple: to help a bike store look at their customers
 
 *Figure 1.0: My interactive Excel dashboard showing customer trends at a glance.*
 Excel Project Dataset from Alex the Analyst Youtube Channel
+
 ---
 
 ## 🛠️ Tools & What I Did
