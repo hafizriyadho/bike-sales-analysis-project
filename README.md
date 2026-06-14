@@ -32,7 +32,7 @@ Before making the charts, the data was a bit of a mess. Here is how I fixed it s
 
 ## 📊 4 Simple Things We Learned From the Data
 
-By looking at the finished dashboard in image_384627.png, we can easily spot four major trends:
+By looking at the finished dashboard, we can easily spot four major trends:
 
 ### 1. Income Matters (Especially for Men)
 * **What the data says:** People who actually bought a bike (`Yes` in the charts) have a higher average income than those who didn't (`No`). For men who bought bikes, the average income is around **$60,124**.
