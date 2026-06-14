@@ -7,6 +7,7 @@ The goal of this project is simple: to help a bike store look at their customers
 
 ### 🖼️ Dashboard Preview
 <img width="500" height="223" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/1966f0d2-9cb9-4ecc-8628-6f3b615173fc" />
+Excel Project Dataset from Alex the Analyst Youtube Channel
 
 *Figure 1.0: My interactive Excel dashboard showing customer trends at a glance.*
 
